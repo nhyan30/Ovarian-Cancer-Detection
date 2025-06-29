@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\OvarianCancer\bin\Debug\OvarianCancer.exe.config
+C:\Users\Asus\source\repos\OvarianCancer\bin\Debug\OvarianCancer.exe
+C:\Users\Asus\source\repos\OvarianCancer\bin\Debug\OvarianCancer.pdb
+C:\Users\Asus\source\repos\OvarianCancer\obj\Debug\OvarianCancer.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OvarianCancer\obj\Debug\OvarianCancer.Form1.resources
+C:\Users\Asus\source\repos\OvarianCancer\obj\Debug\OvarianCancer.Properties.Resources.resources
+C:\Users\Asus\source\repos\OvarianCancer\obj\Debug\OvarianCancer.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\OvarianCancer\obj\Debug\OvarianCancer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OvarianCancer\obj\Debug\OvarianCancer.exe
+C:\Users\Asus\source\repos\OvarianCancer\obj\Debug\OvarianCancer.pdb
+C:\Users\Asus\source\repos\OvarianCancer\bin\Debug\BackLayer.dll
+C:\Users\Asus\source\repos\OvarianCancer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\OvarianCancer\bin\Debug\BackLayer.pdb
+C:\Users\Asus\source\repos\OvarianCancer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\OvarianCancer\obj\Debug\OvarianC.4E227E24.Up2Date
