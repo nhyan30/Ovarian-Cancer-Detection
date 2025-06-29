@@ -1,4 +1,4 @@
-# 🧬 Ovarian Cancer Detection Using Deep Learning
+# 🧬 Ovarian Cancer Detection
 
 This project aims to **detect ovarian cancer and its subtypes** using deep learning models applied to histopathology images. We experimented with multiple architectures, including custom CNNs and pre-trained models such as **VGG19, VGG16, and VGG13bn**, to classify cancer subtypes effectively.
 
