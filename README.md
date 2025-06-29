@@ -61,18 +61,6 @@ Each test image is displayed along with its predicted and actual labels for visu
 The **VGG19 model** achieved the highest performance with an **AUC of 1.00** for Class 1 and excellent accuracy across all classes.
 
 
-## 📌 Key Challenges
-
-- Handling class imbalance across different subtypes.
-- Extracting features from high-resolution histopathology images.
-- Ensuring model generalization and avoiding overfitting.
-
-## ✅ Solutions Implemented
-
-- Applied data augmentation (rotation, zoom, shift) to increase robustness.
-- Used pre-trained models (VGG variants) with transfer learning.
-- Fine-tuned hyperparameters using validation performance.
-- Visualized predictions and ROC curves to validate class-wise performance.
 
 ## 📎 Acknowledgements
 
