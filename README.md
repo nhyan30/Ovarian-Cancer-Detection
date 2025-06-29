@@ -61,8 +61,3 @@ Each test image is displayed along with its predicted and actual labels for visu
 The **VGG19 model** achieved the highest performance with an **AUC of 1.00** for Class 1 and excellent accuracy across all classes.
 
 
-
-## 📎 Acknowledgements
-
-- Dataset courtesy of **Bitsnpieces** on Kaggle.
-- Inspiration and guidance from the medical imaging and ML communities.
