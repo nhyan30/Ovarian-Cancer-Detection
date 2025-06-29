@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OvarianCancer", "OvarianCancer.csproj", "{178C08BB-6FCC-44D2-BD73-47C721E9DB46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackLayer", "..\BackLayer\BackLayer.csproj", "{CF3A749D-1AF8-4E17-8288-979230D7DB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178C08BB-6FCC-44D2-BD73-47C721E9DB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178C08BB-6FCC-44D2-BD73-47C721E9DB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178C08BB-6FCC-44D2-BD73-47C721E9DB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178C08BB-6FCC-44D2-BD73-47C721E9DB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3A749D-1AF8-4E17-8288-979230D7DB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3A749D-1AF8-4E17-8288-979230D7DB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3A749D-1AF8-4E17-8288-979230D7DB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3A749D-1AF8-4E17-8288-979230D7DB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00903285-F52A-4916-925D-38554C46516A}
+	EndGlobalSection
+EndGlobal

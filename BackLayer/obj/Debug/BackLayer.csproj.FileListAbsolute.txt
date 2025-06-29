@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\BackLayer\bin\Debug\BackLayer.dll
+C:\Users\Asus\source\repos\BackLayer\bin\Debug\BackLayer.pdb
+C:\Users\Asus\source\repos\BackLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\BackLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\BackLayer\obj\Debug\BackLayer.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\BackLayer\obj\Debug\BackLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BackLayer\obj\Debug\BackLayer.csproj.Up2Date
+C:\Users\Asus\source\repos\BackLayer\obj\Debug\BackLayer.dll
+C:\Users\Asus\source\repos\BackLayer\obj\Debug\BackLayer.pdb
